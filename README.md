@@ -1,4 +1,4 @@
-# Advanced Persistent Threat Educational (APT-E)
+# Educational - Advanced Persistent Threat (E-APT)
 
 ![APT-E](https://raw.githubusercontent.com/ccdfir/apt/main/images/welcome.png)
 
