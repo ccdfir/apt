@@ -1,5 +1,7 @@
 # Advanced Persistent Threat Educational (APT-E)
 
+![APT-E](https://github.com/ccdfir/apt/blob/main/images/welcome.png)
+
 Congratulations! If you've landed on this page, it means your system is now part of our exclusive club for budding malware analysts. Don't worry, the only thing infectious here is the curiosity to learn more!
 
 ## A Friendly Heads-Up
